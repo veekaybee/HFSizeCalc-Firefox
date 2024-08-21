@@ -13,6 +13,9 @@ There are a few slight differences from [the original](https://github.com/vk-mau
 2. Open Firefox and navigate to `about:debugging` in the address bar.
 3. Go to "This Firefox" on the left-hand side. 
 4. Click "Load Temporary Add-On"
+
+<img src="extension_specs.png" alt="drawing" width="400"/>
+
 5. In the file dialog that appears, select the `HFSizeCalc` folder that you cloned or extracted earlier, and click on any file in the folder. 
 6. HFSizeCalc-Firefox extension will be added to your Firefox as an unpacked extension.
 
